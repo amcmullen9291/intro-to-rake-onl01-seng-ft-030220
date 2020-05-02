@@ -5,4 +5,5 @@ end
 
 namespace
 :db do
-  desc
+  desc 'migration'
+  task :
