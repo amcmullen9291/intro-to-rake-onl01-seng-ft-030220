@@ -4,4 +4,4 @@ task :hello do
 end
 
 namespace
-:
+:db 
